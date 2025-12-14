@@ -75,3 +75,14 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=asam-adibul.asam-adibul" alt="visitor badge" />
 </div>
+
+
+<h3 align="left">🐍 Contribution Snake</h3>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/asam-adibul/asam-adibul/output/github-contribution-grid-snake.svg"
+    alt="github contribution snake animation"
+  />
+</div>
+
