@@ -57,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
 </div>
 
-<h3 align="left">🔥 My Stats</h3>
+<!-- <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
   <img
@@ -85,4 +85,4 @@
     alt="github contribution snake animation"
   />
 </div>
-
+ -->
